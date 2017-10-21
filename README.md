@@ -1,2 +1,2 @@
 # Earth
-has pizza
+has pizza and beer
